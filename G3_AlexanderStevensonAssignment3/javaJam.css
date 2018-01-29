@@ -1,14 +1,13 @@
 body
 {
-	background-color : #ffffcc;
-	color : #330000;
+	background-color : #FCEBB6;
+	color : #221811;
 	font-family : Verdana;
 }
 
 header
 {
-	background-color : #ccaa66;
-	color : #000000;
+	background-color : #D2B48C;
 	text-align : center;
 }
 
@@ -24,8 +23,7 @@ nav
 
 footer
 {
-	background-color : #ccaa66;
-	color : #000000;
+	background-color : #D2B48C;
 	font-size : .60em;
 	font-style : italic;
 	text-align : center;
